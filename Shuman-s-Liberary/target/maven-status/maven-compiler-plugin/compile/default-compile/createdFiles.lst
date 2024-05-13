@@ -1,0 +1,5 @@
+com\Shuman\s\Project\Shuman\s\Liberary\Application.class
+com\Shuman\s\Project\Shuman\s\Liberary\Model\Repositories\BookRepository.class
+com\Shuman\s\Project\Shuman\s\Liberary\Controller\BookController.class
+com\Shuman\s\Project\Shuman\s\Liberary\Model\Entities\BookEntity.class
+com\Shuman\s\Project\Shuman\s\Liberary\Service\BookService.class
